@@ -112,20 +112,17 @@ const Home = () => {
   }, []);
 
   const carouselImages = [
-    '/assets/gn/5 L right.png',
-    '/assets/gn/5 L left.png',
-    '/assets/gn/5 L frnt.png',
-    '/assets/gn/5 L bck.png',
+    '/assets/gn/.5 L right.png',
+    '/assets/gn/.5 L left.png',
+    '/assets/honey/Honey 1.png',
+    '/assets/gn/.5 L bck.png',
     '/assets/gn/1L Gn Right Bottle.png',
     '/assets/gn/1L GN Left Bottle.png',
     '/assets/gn/1L GN Bottle.png',
     '/assets/co/Co oil 2.png',
     '/assets/co/Co oil 3.png',
-    '/assets/co/Co oil.png',
     '/assets/ghee/GHEE 1.png',
     '/assets/ghee/Ghee 2.png',
-    '/assets/ghee/Ghee Glass 1.png',
-    '/assets/ghee/Ghee Glass 2.png',
   ];
 
   return (
