@@ -6,16 +6,17 @@ export const products = [
     badge: "Best Seller",
     rating: 4.9, reviews: 342,
     description: "Stone-pressed peanut oil retaining full natural flavour and nutrients.",
-    image: "/assets/gn/5 L frnt.png",
+    image: "/assets/gn/1L GN Bottle.png",
     variants: [
       {
         id: "v1",
         size: "0.5L",
         price: "₹180",
         images: [
-          "/assets/gn/5 L left.png",
-          "/assets/gn/5 L right.png",
-          "/assets/gn/5 L bck.png"
+          "/assets/gn/.5 L bck.png",
+          "/assets/gn/.5 L frnt.png",
+          "/assets/gn/.5 L left.png",
+          "/assets/gn/.5 L right.png"
         ]
       },
       {
